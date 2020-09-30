@@ -16,6 +16,10 @@ git-sync can pull over HTTP(S) (with authentication or not) or SSH.
 git-sync can also be configured to make a webhook call upon successful git repo
 synchronization. The call is made after the symlink is updated.
 
+# Build
+## Build status: 
+![Build Status](https://travis-ci.com/cyberatz/git-sync.svg?branch=master&status=started)
+
 ## Building it
 
 ```
